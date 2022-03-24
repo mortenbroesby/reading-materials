@@ -9,5 +9,5 @@ https://github.com/sb-js/typescript-algorithms
 
 #### Libraries
 
-https://mantine.dev/
-https://chakra-ui.com/
+- https://mantine.dev/
+- https://chakra-ui.com/

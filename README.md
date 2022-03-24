@@ -2,7 +2,7 @@
 
 ### Algorithms
 
-- https://github.com/sb-js/typescript-algorithms
+- https://github.com/FSou1/typescript-algorithms
 
 ---
 

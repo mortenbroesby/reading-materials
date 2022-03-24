@@ -1,4 +1,4 @@
-# reading-materials
+# Reading materials
 
 ### Algorithms
 

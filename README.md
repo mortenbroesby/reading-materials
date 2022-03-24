@@ -4,6 +4,10 @@
 
 - https://github.com/FSou1/typescript-algorithms
 
+### Data-structures
+
+- https://github.com/FSou1/typescript-algorithms/tree/master/src/data-structures
+
 ---
 
 ### Architecture
